@@ -1,1 +1,1 @@
-# QuoteMachine {https://luckyfrankstudios.github.io/QuoteMachine/}
+# QuoteMachine https://luckyfrankstudios.github.io/QuoteMachine/
